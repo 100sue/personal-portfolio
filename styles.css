@@ -13,7 +13,7 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 88%;
     padding: 40px 100px;
     z-index: 1000;
     display: flex;
@@ -345,7 +345,7 @@ img {
     .menu {
         position: fixed;
         top: 75px;
-        left: -100%;
+        left: 0;
         display: block;
         padding: 100px 50px;
         text-align: center;
